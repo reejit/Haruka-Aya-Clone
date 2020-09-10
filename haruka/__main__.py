@@ -28,7 +28,7 @@ Join My Support Group [Checked Plugins](http://t.me/Checkedplugins) if you need 
 
 Don't Forget To CheckOut [Checkedplugins](http://t.me/Checkedplugins) 
 
-Want to add me to your group? Click here! [Click Here](http://t.me/SpiderMan_ProBot?startgroup=true)
+Want to add me to your group? Click here! [Click Here](http://t.me/CHECKEDPLUGINSMANAGERBOT?startgroup=true)
 """
 
 
