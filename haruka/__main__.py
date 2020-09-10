@@ -26,7 +26,7 @@ Click Help button to find out more about how to use me to my full potential.
 
 Join My Support Group [Checked Plugins](http://t.me/Checkedplugins) if you need any support or help.
 
-Don't Forget To CheckOut [Lol Boy](http://t.me/lolboyisback) 
+Don't Forget To CheckOut [Checkedplugins](http://t.me/Checkedplugins) 
 
 Want to add me to your group? Click here! [Click Here](http://t.me/SpiderMan_ProBot?startgroup=true)
 """
